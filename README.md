@@ -1,1 +1,1 @@
-# Gerador-automatico-de-senhas-com-Python
+# Gerador automático de senhas utilizando o Python
